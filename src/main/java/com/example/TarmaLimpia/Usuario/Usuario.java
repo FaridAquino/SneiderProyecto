@@ -47,9 +47,9 @@ public class Usuario implements UserDetails {
 
     private Boolean enable;
 
-    private Boolean isConductor=false;
+    private Boolean isBasurero=false;
 
-    private Boolean isPasajero=false;
+    private Boolean isPersona=false;
 
     private Role role;
 
